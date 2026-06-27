@@ -9,6 +9,16 @@
 
 ---
 
+## 📺 Demo
+
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+
+<!-- Replace YOUR_YOUTUBE_LINK_HERE with your video URL -->
+<!-- To show a video thumbnail, upload a thumbnail image to your repo and use this: -->
+<!-- [![Demo Video](your-thumbnail.png)](YOUR_YOUTUBE_LINK_HERE) -->
+
+---
+
 ## ✨ What is this?
 
 Inspired by the viral Steam Controller trick — this script fires your gamepad's **left and right rumble motors** at different intensities to physically move it across a flat surface, just like an RC car.
@@ -34,7 +44,7 @@ Works with **any XInput controller** on Windows, including:
 
 - ✅ Xbox 360 Controller
 - ✅ Xbox One / Series Controller
-- ✅ Ant Esports GP310 / GP510
+- ✅ Ant Esports or any other 3rd party controller with dual motors and XInput
 - ✅ Any generic XInput gamepad
 
 ---
@@ -44,7 +54,7 @@ Works with **any XInput controller** on Windows, including:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/controller-rc-car.git
+git clone https://github.com/Adarsh-OPP/controller-rc-car.git
 cd controller-rc-car
 ```
 
@@ -104,21 +114,10 @@ By running only one at a time, the controller spins in that direction. Running b
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! Some ideas to extend this:
-
-- [ ] GUI with on-screen WASD buttons
-- [ ] Speed control via scroll wheel
-- [ ] Gamepad button support (instead of keyboard)
-- [ ] Reverse / brake support
-
----
-
 ## 📄 License
 
 MIT License — free to use, modify, and share.
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a></p>
+<p align="center">Made with ❤️ by <a href="https://github.com/Adarsh-OPP">Adarsh-OPP</a></p>
