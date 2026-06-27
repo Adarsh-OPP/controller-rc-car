@@ -11,7 +11,7 @@
 
 ## 📺 Demo
 
-[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/shorts/VZT1nubi3FU)
 
 <!-- Replace YOUR_YOUTUBE_LINK_HERE with your video URL -->
 <!-- To show a video thumbnail, upload a thumbnail image to your repo and use this: -->
